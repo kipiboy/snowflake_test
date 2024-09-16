@@ -1,1 +1,1 @@
-SELECT 'Hello World from a SQL query' AS greeting;
+SELECT 'Hello World from an SQL query' AS greeting;
